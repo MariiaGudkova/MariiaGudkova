@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MariiaGudkova&style=plastic-square&color=skyblue" alt="" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=MariiaGudkova&style=plastic-square&color=blueviolet" alt="" width="100"/>
 </div>
 
 ____
