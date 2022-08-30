@@ -18,8 +18,8 @@
 
  ## Моя статистика :fire::
  <div align="center">
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave&background=000000)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 
