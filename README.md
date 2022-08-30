@@ -9,6 +9,7 @@ _____
 
 
 <div align="center">
+  **Привет, меня зовут Маша! Добро пожаловать в мой профиль** <img src="https://media.giphy.com/media/LrA52Vvwun7t0qVxYM/giphy.gif" alt="" width="100"/>
   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600" height="300"/>
 </div>
 
