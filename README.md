@@ -5,8 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=MariiaGudkova&style=plastic-square&color=blueviolet" alt="" width="100"/>
 </div>
 ____
-***Привет, меня зовут Маша! Добро пожаловать в мой профиль*** 
+
 <div align="center">
+  
+***Привет, меня зовут Маша! Добро пожаловать в мой профиль*** 
   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600" height="300"/>
 </div>
 
