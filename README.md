@@ -2,7 +2,7 @@
 Я начинающий фронтенд-разработчик 🚀. Хочу научиться писать качественный код и принимать участие в разработке реальных проектов.
 
 ## Мой стек :hammer_and_wrench::
-<div align="center">
+<div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" height="40">&nbsp;
@@ -15,11 +15,9 @@
 </div>
 
  ## Моя статистика :fire::
- <div align="center>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave&background=000000)](https://git.io/streak-stats)<br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-</div>
  
 _____
 <div align="center">
