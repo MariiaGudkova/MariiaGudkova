@@ -1,7 +1,7 @@
 # Привет, меня зовут Маша <img src="https://media.giphy.com/media/LrA52Vvwun7t0qVxYM/giphy.gif" alt="" width="100"/>
-Я начинающий фронтенд-разработчик 🚀.
+Я начинающий фронтенд-разработчик 🚀. Хочу научиться писать качественный код и принимать участие в разработке реальных проектов.
 
-**Мой стек** :hammer_and_wrench::
+## Мой стек :hammer_and_wrench::
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">&nbsp;
@@ -13,6 +13,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg" width="40" height="40">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/babel/babel-original.svg" width="40" height="40">&nbsp;
 </div>
+
+ ## Моя статистика :fire::
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=dark&background=blueviolet)](https://git.io/streak-stats)
 
  
 
