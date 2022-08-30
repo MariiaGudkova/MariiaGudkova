@@ -1,5 +1,5 @@
 <div align="center">
-<p># Привет, меня зовут Маша <img src="https://media.giphy.com/media/LrA52Vvwun7t0qVxYM/giphy.gif" alt="" width="100"/></p>
+#<p>Привет, меня зовут Маша <img src="https://media.giphy.com/media/LrA52Vvwun7t0qVxYM/giphy.gif" alt="" width="100"/></p>
 <p>Я начинающий фронтенд-разработчик 🚀. Хочу научиться писать качественный код и принимать участие в разработке реальных проектов.</p>
 </div>
 
@@ -19,7 +19,6 @@
  ## Моя статистика :fire::
  <div align="center">
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave&background=000000)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 
