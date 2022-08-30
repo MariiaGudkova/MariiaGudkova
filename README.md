@@ -15,14 +15,9 @@
 </div>
 
  ## Моя статистика :fire::
-<div align="center>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave&background=000000)](https://git.io/streak-stats)
-</div>
-<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MariiaGudkova&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-</div>
  
-
 _____
 <div align="center">
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="150"/>
