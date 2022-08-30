@@ -3,8 +3,9 @@
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=MariiaGudkova&style=plastic-square&color=blueviolet" alt="" width="100"/>
+  ____
 </div>
-____
+
 
 <div align="center">
   
