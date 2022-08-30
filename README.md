@@ -4,7 +4,9 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=MariiaGudkova&style=plastic-square&color=blueviolet" alt="" width="100"/>
 </div>
-____
+
+_____
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600" height="300"/>
