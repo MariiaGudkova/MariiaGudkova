@@ -6,7 +6,7 @@
 </div>
 
 
-Welcome! <img src="https://media.giphy.com/media/WP392ibkvgOfYn07ez/giphy.gif" alt="" width="50"/>
+Привет, меня зовут Маша! Добро пожаловать в мой профиль <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="" width="50"/>
 ____
 
 <div align="center">
