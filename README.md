@@ -17,12 +17,12 @@
 
 <br>
  ## Моя статистика :fire::
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave)](https://git.io/streak-stats)<br>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave)](https://git.io/streak-stats)
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
 _____
-***Легче изобрести будущее, чем предсказать его*** Alan Kay.
+***Легче изобрести будущее, чем предсказать его.*** (Alan Kay)
 <div align="center">
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="150"/>
 <div>
