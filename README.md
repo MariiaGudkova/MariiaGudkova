@@ -1,6 +1,6 @@
 <div align="center">
-# Привет, меня зовут Маша <img src="https://media.giphy.com/media/LrA52Vvwun7t0qVxYM/giphy.gif" alt="" width="100"/>
-Я начинающий фронтенд-разработчик 🚀. Хочу научиться писать качественный код и принимать участие в разработке реальных проектов.
+<p># Привет, меня зовут Маша <img src="https://media.giphy.com/media/LrA52Vvwun7t0qVxYM/giphy.gif" alt="" width="100"/></p>
+<p>Я начинающий фронтенд-разработчик 🚀. Хочу научиться писать качественный код и принимать участие в разработке реальных проектов.</p>
 </div>
 
 ## Мой стек :hammer_and_wrench::
@@ -18,8 +18,8 @@
 
  ## Моя статистика :fire::
  <div align="center">
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=dark&background=black)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=dark&background=black)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariiaGudkova&theme=synthwave)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaGudkova&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 
