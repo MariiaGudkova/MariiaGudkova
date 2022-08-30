@@ -23,7 +23,8 @@
 _____
 
 <div align="center">
-    <p><i>Легче изобрести будущее, чем предсказать его.</i> <b>Alan Kay</b></p>
+    <p><i>Легче изобрести будущее, чем предсказать его.</i> 
+        <b>Alan Kay</b></p>
     </br>
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="150"/>
 <div>
