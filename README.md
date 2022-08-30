@@ -3,10 +3,9 @@
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=MariiaGudkova&style=plastic-square&color=blueviolet" alt="" width="100"/>
+  Привет, меня зовут Маша! Добро пожаловать в мой профиль <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="" width="50"/>
 </div>
 
-
-Привет, меня зовут Маша! Добро пожаловать в мой профиль <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="" width="50"/>
 ____
 
 <div align="center">
